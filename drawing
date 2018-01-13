@@ -12,3 +12,4 @@ sense.set_pixel(2, 6, [255, 0, 0])
 sense.set_pixel(3, 6, [255, 0, 0])
 sense.set_pixel(4, 6, [255, 0, 0])
 sense.set_pixel(5, 5, [255, 0, 0])
+sense.back_colour[255,255,0]
